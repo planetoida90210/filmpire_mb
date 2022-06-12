@@ -11,6 +11,8 @@ import {
 } from '@mui/material';
 import { Link } from 'react-router-dom';
 import { useTheme } from '@mui/styles';
+
+import { useGetGenresQuery } from '../../services/TMDB';
 import useStyles from './styles';
 
 const categories = [
@@ -35,6 +37,9 @@ const blueLogo =
 const Sidebar = ({ setMobileOpen }) => {
   const theme = useTheme();
   const classes = useStyles();
+  const { data, isFetching, error } = useGetGenresQuery();
+
+  console.log(data);
 
   return (
     <>
