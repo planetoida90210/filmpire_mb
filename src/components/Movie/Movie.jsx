@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 import useStyles from './styles';
 
 const Movie = ({ movie, i }) => {
-  console.log(movie, i);
   const classes = useStyles();
 
   return (
