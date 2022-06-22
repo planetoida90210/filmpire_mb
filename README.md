@@ -9,5 +9,8 @@ or just simply check some info about actors and films that they played. Filmpire
 
 App is created in [REACT JS](https://reactjs.org/) styled with [MATERIALUI](https://mui.com/). There is additional feature of voice searching [ALANAI](https://alan.app/)
 
+It works good on mutlitple devices | phone 📱 tablet | desktop 🖥️
+
+![https://gcdnb.pbrd.co/images/6bY1dKgCXdQe.png?o=1](https://gcdnb.pbrd.co/images/6bY1dKgCXdQe.png?o=1)
 
 ## Thanks !
