@@ -11,6 +11,12 @@ App is created in [REACT JS](https://reactjs.org/) styled with [MATERIALUI](http
 
 It works good on mutlitple devices | phone 📱 tablet | desktop 🖥️
 
-![https://gcdnb.pbrd.co/images/6bY1dKgCXdQe.png?o=1](https://gcdnb.pbrd.co/images/6bY1dKgCXdQe.png?o=1)
+Desktop:
+![src/assets/large_device.png](src/assets/large_device.png)
+Tablet:
+![src/assets/tablet.png](src/assets/tablet.png)
+Phone:
+![src/assets/iphone.png](src/assets/iphone.png)
+
 
 ## Thanks !
