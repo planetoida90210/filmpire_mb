@@ -16,10 +16,12 @@ Desktop:
 
 
 Tablet:
+
 ![src/assets/tablet.png](src/assets/tablet.png)
 
 
 Phone:
+
 ![src/assets/iphone.png](src/assets/iphone.png)
 
 
