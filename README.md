@@ -13,8 +13,12 @@ It works good on mutlitple devices | phone 📱 tablet | desktop 🖥️
 
 Desktop:
 ![src/assets/large_device.png](src/assets/large_device.png)
+
+
 Tablet:
 ![src/assets/tablet.png](src/assets/tablet.png)
+
+
 Phone:
 ![src/assets/iphone.png](src/assets/iphone.png)
 
